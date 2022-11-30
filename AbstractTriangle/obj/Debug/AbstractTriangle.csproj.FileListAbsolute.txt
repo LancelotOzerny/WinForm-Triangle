@@ -1,0 +1,11 @@
+C:\Projects\Visual Studio C#\AbstractTriangle\AbstractTriangle\bin\Debug\AbstractTriangle.exe.config
+C:\Projects\Visual Studio C#\AbstractTriangle\AbstractTriangle\bin\Debug\AbstractTriangle.exe
+C:\Projects\Visual Studio C#\AbstractTriangle\AbstractTriangle\bin\Debug\AbstractTriangle.pdb
+C:\Projects\Visual Studio C#\AbstractTriangle\AbstractTriangle\obj\Debug\AbstractTriangle.csproj.AssemblyReference.cache
+C:\Projects\Visual Studio C#\AbstractTriangle\AbstractTriangle\obj\Debug\AbstractTriangle.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Visual Studio C#\AbstractTriangle\AbstractTriangle\obj\Debug\AbstractTriangle.Form1.resources
+C:\Projects\Visual Studio C#\AbstractTriangle\AbstractTriangle\obj\Debug\AbstractTriangle.Properties.Resources.resources
+C:\Projects\Visual Studio C#\AbstractTriangle\AbstractTriangle\obj\Debug\AbstractTriangle.csproj.GenerateResource.cache
+C:\Projects\Visual Studio C#\AbstractTriangle\AbstractTriangle\obj\Debug\AbstractTriangle.csproj.CoreCompileInputs.cache
+C:\Projects\Visual Studio C#\AbstractTriangle\AbstractTriangle\obj\Debug\AbstractTriangle.exe
+C:\Projects\Visual Studio C#\AbstractTriangle\AbstractTriangle\obj\Debug\AbstractTriangle.pdb
